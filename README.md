@@ -5,3 +5,5 @@ Basic Implentation of CNNs to detect Floods from images.
 
 First is the CNN implementated from scratch and then second is using the VGG-16 pretrained network.
 CNN without using pretrained network gives 50% accuracy and with VGG-16 gave 70% accuracy.
+
+There are 3 folders: train, test and valid. Each consist of separate sub-folders Floods and Non Floods.
